@@ -1,2 +1,2 @@
 # eyzabot
-An Ai powered CLI tool
+An AI-powered CLI tool
